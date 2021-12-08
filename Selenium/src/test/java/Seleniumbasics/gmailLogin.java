@@ -18,7 +18,7 @@ public class gmailLogin {
         driver.manage().window().maximize();
         driver.findElement(By.id("identifierId")).sendKeys("abcde");
         driver.findElement(By.xpath("//button[(text()='Forgot email?')]")).click();
-        				 
+        				//hhhhhhhkhkh 
  //       driver.findElement(By.xpath("//input[@name='identifier']")).sendKeys("geetu.qa");
  //       driver.findElement(By.xpath("//span[text()='Next']")).click();
  //       Thread.sleep(2000);

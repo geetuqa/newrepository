@@ -9,6 +9,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class gmailLogin {
 
 	public static void main(String[] args) throws InterruptedException {
+		
+		//changes made in gmail java class file
 		System.setProperty("webdriver.chrome.driver","//Users//aarav//eclipse-workspace//Selenium//Drivers//chromedriver 3" );
 		
 		WebDriver driver = new ChromeDriver();
